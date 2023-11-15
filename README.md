@@ -1,5 +1,5 @@
 # Getting started
 
-This repository is a sample application for users following the getting started guide at https://docs.docker.com/get-started/.
+This is just a test of updating a .md file from the shell inside a docker container. If everything went OK, then this message should be updated correctly.
 
-The application is based on the application from the getting started tutorial at https://github.com/docker/getting-started# dockertest
+Good look future Dany. Enjoy the process.
